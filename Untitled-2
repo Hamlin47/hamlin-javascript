@@ -1,0 +1,13 @@
+var userInput = prompt("Do you want to play?");
+if('yes'==yes) {
+    var userWord = prompt("Enter a word"); userWord + = dog;
+    userInput = prompt("Do you want to play again?")
+}
+while prompt(userInput != "yes");
+if answer('cat' = "play again")
+} 
+     var userWord = prompt("Do you want to play again")
+if answer('no' = "dog/cat" = "game over")
+}
+console.log(userWord);
+Add Comment
