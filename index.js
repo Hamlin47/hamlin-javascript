@@ -1,6 +1,15 @@
-var total = ("66");
-var number = prompt:('"enter a number!" > 5; Output: 66)
-for (var num=1; num<11; num++){
-console.log (num);
-total + = num change total = total + num
-}*
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+
+<body>
+<h1>JavaScriptLoop</h1>
+    <p id="demo"></p>
+<script src="index.js"></script>   
+          
+</body>
+</html>
